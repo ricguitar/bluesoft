@@ -1,0 +1,9 @@
+com\vote\no\filme\domain\Usuario.class
+com\vote\no\filme\service\Services.class
+com\vote\no\filme\service\UserService.class
+com\vote\no\filme\service\VotosService.class
+com\vote\no\filme\logic\SaveUserAndVotes.class
+com\vote\no\filme\logic\Counter.class
+com\vote\no\filme\domain\Votos.class
+com\vote\no\filme\domain\Filme.class
+com\vote\no\filme\service\FilmeService.class
